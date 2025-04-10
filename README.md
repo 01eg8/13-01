@@ -32,7 +32,7 @@
 
 ### Задание 1
 
-![img]()
+![img](https://github.com/01eg8/13-01/blob/main/img/Screenshot%20from%202025-04-10%2021-38-38.png)
 
 - 22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)  (https://www.exploit-db.com/exploits/45233)
 - 139/tcp  open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP) (https://www.exploit-db.com/exploits/42060)
